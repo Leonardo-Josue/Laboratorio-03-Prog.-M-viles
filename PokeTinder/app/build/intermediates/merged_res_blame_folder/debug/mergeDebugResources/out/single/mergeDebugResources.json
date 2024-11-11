@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_pokebola.png.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/pokebola.png"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_ic_info_24.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/ic_info_24.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_skip_red.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/skip_red.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_gradient_gray.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/gradient_gray.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_charizard.png.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/charizard.png"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_jardin.jpg.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/jardin.jpg"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_gradient_main_background.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/gradient_main_background.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/layout_item_pokemon.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/layout/item_pokemon.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_gradient_intro_fail2.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/gradient_intro_fail2.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_gradient_white.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/gradient_white.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_ic_pokeballs.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/ic_pokeballs.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_like_green.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/like_green.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_background_button.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/background_button.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_ic_baseline_keyboard_arrow_left_24.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/ic_baseline_keyboard_arrow_left_24.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_ic_favorite_24.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/ic_favorite_24.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/layout_activity_register.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_pokebolaazul.png.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/pokebolaazul.png"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_pokebolagris.png.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/pokebolagris.png"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_pokemon_logo.png.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/pokemon_logo.png"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/layout_activity_splash.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_rewind.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/rewind.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/layout_activity_login.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_world2.png.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/world2.png"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_background_rounded_edit_text.xml.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/background_rounded_edit_text.xml"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/drawable_verified.png.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/drawable/verified.png"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonardochavez.poketinder.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.leonardochavez.poketinder.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
